@@ -1,0 +1,11 @@
+h2 {
+  margin-top: 200px;
+  font-family: 'Noto Sans';
+}
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+p {
+  padding-top: 2em; 
+}
